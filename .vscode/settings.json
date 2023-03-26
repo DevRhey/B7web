@@ -1,0 +1,40 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "onFocusChange",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false,
+    "html": true
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "vscode-edge-devtools.webhint": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.guides.bracketPairs": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "prettier.bracketSameLine": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#ff0000",
+    "editorBracketHighlight.foreground2": "#2d5de0",
+    "editorBracketHighlight.foreground3": "#e2f107",
+    "editorBracketHighlight.foreground4": "#05af21",
+    "editorBracketHighlight.foreground5": "#9006ac",
+    "editorBracketHighlight.foreground6": "#04b2dd",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#db6165"
+  },
+  "workbench.preferredDarkColorTheme": "Dracula Soft",
+  "workbench.preferredHighContrastColorTheme": "Dracula Soft",
+  "workbench.preferredHighContrastLightColorTheme": "Dracula Soft",
+  "workbench.preferredLightColorTheme": "Dracula Soft"
+}
